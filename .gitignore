@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not this Jupyter Notebook
+!.gitignore
+!Ranking_workshop_solution_vf_explained.ipynb
+
+
